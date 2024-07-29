@@ -1,9 +1,0 @@
-{
-    "name":"Trend # 4",
-    "description":"Replicants enabled by ERC404, an experimental token standard",
-    "image":"https://ipfs.io/ipfs/QmbxH54Kyi6BAmQsnNFPyGrLqPmDzbX1BJx8ZPjyGKdFzs",
-    "attributes":[
-        {"trait_type": "level","value":1},
-        {"trait_type": "role","value":100000}
-    ]
-}
